@@ -1,5 +1,9 @@
 
-This API provides chat data with each page of messages. When the user scrolls to the top of the chat list, the app will automatically fetch the next set of messages by incrementing the `page` parameter.
+# Documentation - React Native Chat Application
+
+## Assignment Overview
+The goal of this assignment is to develop a React Native chat application for both Android and iOS platforms. The application should mimic a typical chat interface, displaying messages from both the user and others. The UI design should be as per the provided specification.
+
 
 ## Technology Stack
 
