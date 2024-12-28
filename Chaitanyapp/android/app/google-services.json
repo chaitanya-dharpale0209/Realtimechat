@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6317946257",
+    "project_id": "chaitanyapps-32af5",
+    "storage_bucket": "chaitanyapps-32af5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6317946257:android:32020115f4bfb7ced29630",
+        "android_client_info": {
+          "package_name": "com.chaitanyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRqZGHSR4-j2Rgq6I4IaDemsoVBoGIH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
