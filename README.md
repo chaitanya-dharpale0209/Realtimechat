@@ -30,6 +30,8 @@ The app automatically scrolls to the latest message whenever a new message is se
 
 ### screen recording for demonstration (updated UI) ###
 
+https://github.com/user-attachments/assets/ba9eba91-36a0-4eec-945a-32bab2a702c1
 
-https://github.com/user-attachments/assets/4c12bd80-dc91-41ac-ac45-81adcee7ca95
+
+
 
