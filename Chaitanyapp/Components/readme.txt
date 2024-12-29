@@ -9,7 +9,7 @@ api response body:
       "id": "7f889403d080404dbc02e6e10914dffb",
       "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Page 0<br>Quisque vitae varius ex, eu volutpat orci.",
       "sender": {
-        "image": "https://fastly.picsum.photos/id/648/160/160.jpg?hmac=AqrvRqv79fFWHWjjjm_Cn7QPPJ2JVox_CLRgzISsO4o",
+        "image": "https://fastly.picsum.photos/id/648/160/160.jpg?hmac=AqrvRqv79fFWHWjjjm_Cn7Q`PPJ2JVox_CLRgzISsO4o",
         "is_kyc_verified": false,
         "self": false,
         "user_id": "a6c04ceed74b447280f5fa7ab053adcc"
