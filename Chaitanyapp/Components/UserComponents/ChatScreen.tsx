@@ -84,7 +84,7 @@ const Chat = ({ route }: { route: any }) => {
         id: `${Date.now()}`, 
         message: text,
         sender: {
-          image: "https://fastly.picsum.photos/id/1072/160/160.jpg?hmac=IDpbpA5neYzFjtkdFmBDKXwgr-907ewXLa9lLk9JuA8", // Your specific image
+          image: "https://fastly.picsum.photos/id/1072/160/160.jpg?hmac=IDpbpA5neYzFjtkdFmBDKXwgr-907ewXLa9lLk9JuA8",
           is_kyc_verified: true,
           self: true, 
           user_id: "73785ed67d034f6290b0334c6e756433",
